@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashu Ranparia</h1>
 <!-- <h3 align="center">A passionate Devloper</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashuRanparia&label=Profile%20views&color=0e75b6&style=flat" alt="YashuRanparia" /> </p>
+
 
 <!--
 **YashuRanparia/YashuRanparia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
